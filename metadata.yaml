@@ -1,10 +1,16 @@
 _repo: Irish-Historical-Allusions-Curious-Customs-and-Superstitions_49960
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49960-h/images/cover.jpg
 creator:
   author:
     agent_name: Foley, Patrick
     gutenberg_agent_id: '45629'
     url: http://www.gutenberg.org/2009/agents/45629
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49960#Irish-Historical-Allusions-Curious-Customs-and-Superstitions
 gutenberg_issued: '2015-09-14'
 gutenberg_type: Text
 identifiers:
